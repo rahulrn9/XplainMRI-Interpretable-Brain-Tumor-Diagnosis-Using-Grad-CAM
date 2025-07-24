@@ -1,0 +1,8 @@
+tensorflow
+streamlit
+opencv-python
+matplotlib
+numpy
+Pillow
+gspread
+oauth2client
